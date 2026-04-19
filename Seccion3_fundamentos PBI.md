@@ -1,7 +1,7 @@
 # SECCION 3: fundamentos de PBI, Creación de informe iteractivo
 > Se trabajará con un archivo excel para el ejercicio practico.
 
-### Fuentes de datos en PBI
+## Fuentes de datos en PBI
 - Podemos cargar data a nuestro Power BI con la siguiente ruta **Home >>> Data**
 - Al ingresar vamos a ver diferentes opciones para cargar la data.
 - Cuando cargamos la data (excel) PBI identifica el tipo de archivo y ademas identifica las tablas dentro del archivo.
@@ -12,7 +12,7 @@
 
 - PBI optimiza el volumen de la información y por eso muchas veces el PBI tiene un peso menor al excel.
 
-### Power query editor
+## Power query editor
 > Esta seccion o componente de PBI es donde se realiza la organización de los datos. Permiten: explorar, transformar, limpiar y filtrar
 
 El Editor de Power Query es el motor de transformación y preparación de datos que se utiliza en Excel, Power BI y otros servicios de Microsoft. Su función principal es el proceso ETL (Extraer, Transformar y Cargar), permitiéndote conectar cientos de fuentes de datos y limpiarlos.
