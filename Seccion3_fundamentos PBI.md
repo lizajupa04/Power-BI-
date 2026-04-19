@@ -29,11 +29,11 @@ El Editor de Power Query es el motor de transformación y preparación de datos 
 
 Conectividad: Puedes extraer datos desde archivos CSV, carpetas completas, bases de datos SQL, páginas web o incluso archivos PDF.
 
-Anulación de dinamización de columnas (Unpivot): Una de las herramientas más potentes para convertir tablas anchas (con meses en las columnas, por ejemplo) en tablas largas, ideales para el análisis de datos.
+- Anulación de dinamización de columnas (Unpivot): Una de las herramientas más potentes para convertir tablas anchas (con meses en las columnas, por ejemplo) en tablas largas, ideales para el análisis de datos.
 
-Columnas Condicionales: Permite crear nuevas columnas basadas en reglas lógicas (similares al SI de Excel) mediante una interfaz visual sencilla.
+- Columnas Condicionales: Permite crear nuevas columnas basadas en reglas lógicas (similares al SI de Excel) mediante una interfaz visual sencilla.
 
-Lenguaje M: Aunque todo se hace con botones, por detrás Power Query escribe código en un lenguaje funcional llamado M. Los usuarios avanzados pueden editar este código directamente en el Editor Avanzado.
+- Lenguaje M: Aunque todo se hace con botones, por detrás Power Query escribe código en un lenguaje funcional llamado M. Los usuarios avanzados pueden editar este código directamente en el Editor Avanzado.
 
 ### El Flujo de Trabajo Automático
 La mayor ventaja es la reutilización:
